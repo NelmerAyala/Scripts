@@ -1,0 +1,17 @@
+DROP TABLE compra_structures;
+DROP TABLE settings;
+DROP TABLE users_houses_privileges ;
+DROP TABLE users_houses  ;
+DROP TABLE houses  ;
+DROP TABLE privileges;
+DROP TABLE estatus_documentos ;
+DROP TABLE estatus_retenciones ;
+DROP TABLE tipos_compras_ventas ;
+DROP TABLE tipos_creditos ;
+DROP TABLE tipos_documentos ;
+DROP TABLE tipos_transacciones ;
+DROP TABLE audit_details  ;
+DROP TABLE audits;
+DROP TABLE audit_processes;
+DROP TABLE compras ;
+DROP TABLE users ;
